@@ -1,12 +1,13 @@
 ### Hi there this is Mohsin Farooq [Data Analyst]
 
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<br/>
+<a href="https://twitter.com/mohsin3027">
+  <img align="right" alt="Mohsin" width="21px" src="https://raw.githubusercontent.com/mohsin3027/mohsin3027/master/img/java_png.png" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://codesandbox.io/u/mohsin3027">
+  <img align="right" alt="Mohsin3027 | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/mohsin3027/mohsin3027/master/img/dashboard.png" />
 </a>
+<br/>
 
 - 🔭 I’m currently working on Data Analytics Projects
 - 🌱 I’m currently learning Google Analytics
