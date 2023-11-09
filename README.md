@@ -4,11 +4,11 @@ I translate data into valuable and comprehensible insights. My goal is to improv
 I am experienced in machine learning, supervised and unsupervised algorithms and use data visualization techniques to present the results. 
 I create interactive infographics which can be used internally or publicly.
 
-<code><img height="30" width="30" alt="excel" src="https://raw.githubusercontent.com/mohsin3027/mohsin3027/master/img/excel_png.png"></code>
-<code><img height="20" alt="sql" src="https://raw.githubusercontent.com/mohsin3027/mohsin3027/master/img/sql_png.png"></code>
-<code><img height="20" alt="powerbi" src="https://raw.githubusercontent.com/mohsin3027/mohsin3027/master/img/power_png.png"></code>
-<code><img height="20" alt="tableau" src="https://raw.githubusercontent.com/mohsin3027/mohsin3027/master/img/tableau.png"></code>
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/mohsin3027/mohsin3027/master/img/python.png"></code>    
+📈 Skills :  <code><img height="30" width="30" alt="excel" src="https://raw.githubusercontent.com/mohsin3027/mohsin3027/master/img/excel_png.png"></code>
+<code><img height="30" width="30" alt="sql" src="https://raw.githubusercontent.com/mohsin3027/mohsin3027/master/img/sql_png.png"></code>
+<code><img height="30" width="30" alt="powerbi" src="https://raw.githubusercontent.com/mohsin3027/mohsin3027/master/img/power_png.png"></code>
+<code><img height="30" width="30" alt="tableau" src="https://raw.githubusercontent.com/mohsin3027/mohsin3027/master/img/tableau.png"></code>
+<code><img height="30" width="30" alt="python" src="https://raw.githubusercontent.com/mohsin3027/mohsin3027/master/img/python.png"></code>    
 
 
 
